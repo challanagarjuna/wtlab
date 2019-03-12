@@ -1,0 +1,13 @@
+[{
+	"firstName": "nag",
+	"lastName": "challa",
+	"age": 20,
+	"marks": [{
+			"english": 24
+		},
+		{
+			"maths": 25
+		}
+	],
+	"address": "srpt"
+}]
